@@ -6,4 +6,5 @@ Javascript: What is XMLHTTPRequest? &amp; scope
                              ->  country_flag.html, country_flag.js
                              
 3) Display all countries names,regios,subregions and populations. 
+->  all_region.html, all_region.js
                              ->  all_region.html, all_region.js
